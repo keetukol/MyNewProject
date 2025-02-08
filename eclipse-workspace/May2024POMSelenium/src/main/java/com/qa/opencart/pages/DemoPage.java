@@ -4,4 +4,7 @@ public class DemoPage {
 
 	
 	int i=10;
+	String name= "Preetho";
+	
+
 }
